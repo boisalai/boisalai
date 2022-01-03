@@ -1,5 +1,7 @@
 ### Alain Boisvert, MBA
 
+![alt text](images/linkedin.svg)
+
 Seeks to create useful things and to make the complicated simple.
 
 - [My resume](resume.md) (in French)
