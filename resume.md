@@ -111,3 +111,7 @@ Association des étudiant(e)s en mathématiques de l’Université de Sherbrooke
 **Environnement de développement** : VSCode, Colab, Jupyter.<br>
 **Web** : Angular, Vue.js, Boostrap, Javascript, HTML/CSS.<br>
 **Autres** : Antora, LaTeX.
+
+<a href="https://github.com/boisalai"><img src="images/github.svg"></a>
+<a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>
+<a href="mailto:ay.boisvert@gmail.com"><img src="images/gmail.svg"></a>

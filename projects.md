@@ -46,3 +46,7 @@ Entre 1992 et 2001, j’ai développé un dictionnaire de données à partir de 
 
 ![alt text](images/dicto1.jpg)
 ![alt text](images/dicto2.jpg)
+
+<a href="https://github.com/boisalai"><img src="images/github.svg"></a>
+<a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>
+<a href="mailto:ay.boisvert@gmail.com"><img src="images/gmail.svg"></a>

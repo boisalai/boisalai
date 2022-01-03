@@ -1,6 +1,6 @@
 ### Alain Boisvert, MBA
 
-Seeks to create useful things and to make the complicated simple.
+Seeks to create useful things and to make complicated things simple.
 
 - [My resume](resume.md) (in French)
 - Some of [my projects](projects.md) (in French)
