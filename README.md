@@ -11,5 +11,6 @@ Seeks to create useful things and to make the complicated simple.
 
 <a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin.svg" width="30"></a>
 
+<a href="https://github.com/boisalai"><img src="images/github.svg"></a>
 <a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>
-
+<a href="mailto:ay.boisvert@gmail.com"><img src="images/gmail.svg"></a>
