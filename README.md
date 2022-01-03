@@ -1,6 +1,6 @@
 ### Alain Boisvert, MBA
 
-![alt text](images/linkedin.svg)
+<img src="images/linkedin.svg" width="30">
 
 Seeks to create useful things and to make the complicated simple.
 
