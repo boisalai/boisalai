@@ -2,7 +2,7 @@
 # Alain Boisvert, MBA
 
 Gestionnaire ayant réalisé plusieurs mandats stratégiques au gouvernement du Québec.
-Persévérant, rigoureux, esprit d’équipe et « touche à tout ». Cherche à créer des choses utiles et rendre simple ce qui est compliqué.
+Persévérant, rigoureux, esprit d’équipe et «&nbsp;touche à tout&nbsp;». Cherche à créer des choses utiles et rendre simple ce qui est compliqué.
 
 ## Formation universitaire
 
@@ -84,7 +84,7 @@ Énergie, Mines et Ressources Canada, Ottawa
 **Réserviste** (1982 – 1985)<br>
 [Les Fusiliers de Sherbrooke](https://www.army-armee.forces.gc.ca/fr/2-division-du-canada/les-fusiliers-de-sherbrooke/index.page), Forces Canadiennes
 
-- Caporal d'infanterie, exercices militaires, certifié «&nbsp;armes antichars » et « communication radio ».
+- Caporal d'infanterie, exercices militaires, certifié «&nbsp;armes antichars&nbsp;» et «&nbsp;communication radio&nbsp;».
 
 ## Conseil d'administration et activités communautaires
 
