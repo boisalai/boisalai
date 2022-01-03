@@ -82,7 +82,7 @@ Énergie, Mines et Ressources Canada, Ottawa
 - Poursuivre le développement d'un logiciel déterminant des fractures possibles d'une pièce métallique à partir des données d'un microscope électronique (Fortran sur DEC PDP-11).
 
 **Réserviste** (1982 – 1985)<br>
-[Les Fusiliers de Sherbrooke](http://www.army-armee.forces.gc.ca/fr/fus-sherbrooke/index.page), Forces Canadiennes
+[Les Fusiliers de Sherbrooke](https://www.army-armee.forces.gc.ca/fr/2-division-du-canada/les-fusiliers-de-sherbrooke/index.page), Forces Canadiennes
 
 - Caporal d'infanterie, exercices militaires, certifié «&nbsp;armes antichars » et « communication radio ».
 
@@ -100,6 +100,12 @@ Énergie, Mines et Ressources Canada, Ottawa
 Association des étudiant(e)s en mathématiques de l’Université de Sherbrooke
 
 ## Compétences
+
+<!-- 
+**Données massives** : Hadoop (HDFS, Pig, Impala), Hive, Flume, Kafka, Spark.<br>
+**Apprentissage machine** : Pytorch, Keras, Transformers.<br>
+**Programmation** : C++, GoLang, Julia, Python (Scikit-Learn).<br>
+-->
 
 **Programmation** : Fortran, Java, Python (Pandas, Numpy, Mathplotlib), SAS, SQL, VBA.<br>
 **Environnement de développement** : VSCode, Colab, Jupyter.<br>
