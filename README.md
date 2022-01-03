@@ -1,7 +1,5 @@
 ### Alain Boisvert, MBA
 
-<img src="images/linkedin.svg" width="30">
-
 Seeks to create useful things and to make the complicated simple.
 
 - [My resume](resume.md) (in French)
@@ -10,3 +8,5 @@ Seeks to create useful things and to make the complicated simple.
   - [Microprogramme de deuxième cycle en traitement de données massives](https://www.fsg.ulaval.ca/etudes/programmes-detudes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives/), Université Laval (since 2021)
   - [Dive into Deep Learning](https://d2l.ai/) (since January 2022)
   - [PyTorch](https://pytorch.org/) (since 2021)
+
+<a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin.svg" width="30"></a>
