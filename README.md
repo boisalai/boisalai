@@ -10,3 +10,6 @@ Seeks to create useful things and to make the complicated simple.
   - [PyTorch](https://pytorch.org/) (since 2021)
 
 <a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin.svg" width="30"></a>
+
+<a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>
+
