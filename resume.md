@@ -99,7 +99,7 @@ Énergie, Mines et Ressources Canada, Ottawa
 **Président** (1986 – 1987)<br>
 Association des étudiant(e)s en mathématiques de l’Université de Sherbrooke
 
-## Compétences
+## Compétences informatiques
 
 <!-- 
 **Données massives** : Hadoop (HDFS, Pig, Impala), Hive, Flume, Kafka, Spark.<br>
@@ -111,6 +111,17 @@ Association des étudiant(e)s en mathématiques de l’Université de Sherbrooke
 **Environnement de développement** : VSCode, Colab, Jupyter.<br>
 **Web** : Angular, Vue.js, Boostrap, Javascript, HTML/CSS.<br>
 **Autres** : Antora, LaTeX.
+
+**Expert** : SAS, VBA, Fortran, Colab, Jupyter, Javascript, HTML/CSS.
+**Intermediate** : Python (Pandas, Numpy, Mathplotlib), SQL, VSCode, Antora, LaTeX.
+**Novice** : Angular, Vue.js
+
+| |Beginner|Intermediate|Advanced|
+|---|---|---|---|
+|**Programmation**|Java|Python (Pandas, Numpy, Mathplotlib), SQL|Fortran, SAS, VBA|
+|**Environnement de développement**| |VSCode|Colab, Jupyter|
+|**Web**| |Angular, Vue.js|Boostrap, Javascript, HTML/CSS|
+|**Autres**| |Antora, LaTeX| |
 
 <a href="https://github.com/boisalai"><img src="images/github.svg"></a>
 <a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>

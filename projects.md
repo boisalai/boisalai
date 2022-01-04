@@ -43,7 +43,7 @@ Entre 1992 et 2001, j’étais responsable de produire des informations de gesti
 
 Entre 1992 et 2001, j’ai développé un dictionnaire de données à partir de plusieurs sources (IDMS, DB2, SAS, fichiers plats sur rubans magnétiques) contenant environ 21 500 rubriques et 316 000 liens hypertextes. Tous les fichiers étaient construits en SAS sur un ordinateur central. Il ne restait plus qu'à télécharger et compiler avec [HTML Help Workshop](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-downloads).
 
-| <img src="images/dicto1.jpg" width="600"> | <img src="images/dicto2.jpg" width="600"> |
+| <img src="images/dicto1.jpg" width="500"> | <img src="images/dicto2.jpg" width="600"> |
 |:-------------:|:-------------:|
 
 <a href="https://github.com/boisalai"><img src="images/github.svg"></a>
