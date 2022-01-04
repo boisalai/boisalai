@@ -28,9 +28,8 @@ En 2017, j'ai réalisé les travaux suivants dans le cadre du cours «&nbsp;Full
 
 Entre 2001 et 2006, j’ai développé un calculateur d’impôts sur le revenu et des transferts aux particuliers. Ce calculateur était développé en VBA/Excel et documenté dans un fichier CHM. Avec des milliers de paramètres (ex. taux d'imposition, seuil de réduction de la PSV, cotisation annuelle maximale à l'assurance-emploi), il calculait notamment les revenus disponibles après impôts et transferts aux particliers, les seuils d’imposition nulle, et les taux marginaux implicites d’imposition, pour plusieurs types de ménages, provinces canadiennes et années d’imposition. Il produisait de nombreux tableaux et graphiques. Cet outil était grandement utilisé pour simuler des changements aux règles de calcul des impôts et crédits sociofiscaux, et pour produire des cas types.
 
-![alt text](images/revdisp1.jpg)
-![alt text](images/revdisp2.jpg)
-![alt text](images/revdisp3.jpg)
+| <img src="images/revdisp1.jpg" width="600"> | <img src="images/revdisp2.jpg" width="500"> | <img src="images/revdisp3.jpg" width="600"> |
+|:-------------:|:-------------:|:-----:|
 
 ## Entrepôt de données SAS
 
@@ -44,8 +43,8 @@ Entre 1992 et 2001, j’étais responsable de produire des informations de gesti
 
 Entre 1992 et 2001, j’ai développé un dictionnaire de données à partir de plusieurs sources (IDMS, DB2, SAS, fichiers plats sur rubans magnétiques) contenant environ 21 500 rubriques et 316 000 liens hypertextes. Tous les fichiers étaient construits en SAS sur un ordinateur central. Il ne restait plus qu'à télécharger et compiler avec [HTML Help Workshop](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-downloads).
 
-![alt text](images/dicto1.jpg)
-![alt text](images/dicto2.jpg)
+| <img src="images/dicto1.jpg" width="600"> | <img src="images/dicto2.jpg" width="600"> |
+|:-------------:|:-------------:|
 
 <a href="https://github.com/boisalai"><img src="images/github.svg"></a>
 <a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>
