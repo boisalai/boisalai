@@ -13,7 +13,7 @@
 **2022** : :orange_book:[Dive into Deep Learning](https://d2l.ai/), [PyTorch](https://pytorch.org/).<br>
 **2021** : :orange_book:[Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/), [Kaggle’s 30 Days of ML](https://www.kaggle.com/thirty-days-of-ml), :student:[GLO-2100 Algorithmes et structures de données pour ingénieurs](https://www.ulaval.ca/etudes/cours/glo-2100-algorithmes-et-structures-de-donnees-pour-ingenieurs).<br>
 **2019** : [Fast.ai](https://course.fast.ai/), Intro to Deep Learning with PyTorch (Udacity).<br>
-**2018** : <img src="images/coursere.png" width="40"> Deep Learning Specialization (Coursera), :orange_book:[Deep Learnig Book](https://www.deeplearningbook.org/).<br>
+**2018** : <img src="images/coursera.png" width="40"> Deep Learning Specialization (Coursera), :orange_book:[Deep Learnig Book](https://www.deeplearningbook.org/).<br>
 **2017** : Full Stack Web Developer Nanodegree (Udacity).
 
 <a href="https://github.com/boisalai"><img src="images/github.svg"></a>
