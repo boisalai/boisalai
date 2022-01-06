@@ -6,11 +6,14 @@ Persévérant, rigoureux, esprit d’équipe et «&nbsp;touche à tout&nbsp;». 
 
 ## Formation universitaire
 
-- [**Microprogramme de deuxième cycle en traitement de données massives**](https://www.fsg.ulaval.ca/etudes/programmes-detudes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives/), [Université Laval](https://www.ulaval.ca/) (depuis 2021)
-- **MBA, Gestion des technologies de l’information**, [Université Laval](https://www.ulaval.ca/) (1999 – 2006)<br>
+[**Microprogramme de deuxième cycle en traitement de données massives**](https://www.fsg.ulaval.ca/etudes/programmes-detudes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives/), [Université Laval](https://www.ulaval.ca/) (depuis 2021)
+
+**MBA, Gestion des technologies de l’information**, [Université Laval](https://www.ulaval.ca/) (1999 – 2006)<br>
 Mention d'excellence des Facultés des études supérieures et des sciences de l’administration
-- **B. Sc., Mathématiques appliquées**, [Université de Sherbrooke](https://www.usherbrooke.ca/) (1985 – 1988)
-- [Casualty Actuarial Society](https://www.casact.org/) (1986 – 1991)
+
+**B. Sc., Mathématiques appliquées**, [Université de Sherbrooke](https://www.usherbrooke.ca/) (1985 – 1988)
+
+[Casualty Actuarial Society](https://www.casact.org/) (1986 – 1991)
 
 ## Expériences professionnelles
 
@@ -107,21 +110,10 @@ Association des étudiant(e)s en mathématiques de l’Université de Sherbrooke
 **Programmation** : C++, GoLang, Julia, Python (Scikit-Learn).<br>
 -->
 
-**Programmation** : Fortran, Java, Python (Pandas, Numpy, Mathplotlib), SAS, SQL, VBA.<br>
-**Environnement de développement** : VSCode, Colab, Jupyter.<br>
-**Web** : Angular, Vue.js, Boostrap, Javascript, HTML/CSS.<br>
-**Autres** : Antora, LaTeX.
-
-**Expert** : SAS, VBA, Fortran, Colab, Jupyter, Javascript, HTML/CSS.
-**Intermediate** : Python (Pandas, Numpy, Mathplotlib), SQL, VSCode, Antora, LaTeX.
-**Novice** : Angular, Vue.js
-
-| |Beginner|Intermediate|Advanced|
-|---|---|---|---|
-|**Programmation**|Java|Python (Pandas, Numpy, Mathplotlib), SQL|Fortran, SAS, VBA|
-|**Environnement de développement**| |VSCode|Colab, Jupyter|
-|**Web**| |Angular, Vue.js|Boostrap, Javascript, HTML/CSS|
-|**Autres**| |Antora, LaTeX| |
+**Technical skills...**<br>
+**Expert** : SAS, VBA, Fortran, Colab, Jupyter, Javascript, HTML/CSS.<br>
+**Intermediate** : Python (Pandas, Numpy, Mathplotlib), SQL, VSCode, GitHub, Antora, LaTeX.<br>
+**Novice** : Angular, Vue.js.
 
 <a href="https://github.com/boisalai"><img src="images/github.svg"></a>
 <a href="https://www.linkedin.com/in/alain-boisvert-98b058156/"><img src="images/linkedin-2.svg"></a>
