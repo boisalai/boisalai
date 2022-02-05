@@ -1,11 +1,16 @@
 # Quelques-uns de mes projets
 
-## Mes notebooks 
+<!-- 
+## Mes notebooks
+
+https://github.com/nlp-with-transformers/notebooks
 
 | Sujets | Colab | Kaggle | Gradient | Studio Lab |
 |:--|:--|:--|:--|:--|
 | Introduction to Julia | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://kaggle.com/kernels/welcome?src=https://github.com/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb) | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb) | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)](https://studiolab.sagemaker.aws/import/github/nlp-with-transformers/notebooks/blob/main/01_introduction.ipynb) |
 
+Nowadays, the GPUs on Colab tend to be K80s (which have limited memory), so we recommend using Kaggle, Gradient, or SageMaker Studio Lab. These platforms tend to provide more performant GPUs like P100s, all for free!
+-->
 
 ## Mes notes de cours avec Antora
 
