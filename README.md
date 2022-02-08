@@ -5,9 +5,9 @@
 - Since 2021, I'm back to school: [Microprogramme de deuxième cycle en traitement de données massives](https://www.fsg.ulaval.ca/etudes/programmes-detudes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives/), [Université Laval](https://www.ulaval.ca/).
 
 **Technical skills...**<br>
-**Expert** : SAS, VBA/Excel, Colab, Jupyter, Javascript, HTML/CSS.<br>
-**Intermediate** : Python (pandas, Numpy, Matplotlib), SQL, VSCode, GitHub, Antora, LaTeX, Fortran.<br>
-**Novice** : Bash, Shell, C, C++, Julia, Angular, Vue.js.
+**Expert** : [SAS](https://www.sas.com/), VBA/Excel, Colab, [Jupyter](https://jupyter.org/), Javascript, HTML/CSS.<br>
+**Intermediate** : Python (pandas, Numpy, Matplotlib), SQL, [Visual Studio Code](https://code.visualstudio.com/), [Antora](https://antora.org/), LaTeX, [Fortran](https://fortran-lang.org/).<br>
+**Novice** : Bash, Shell, GitHub, C, C++, [Julia](https://julialang.org/), [Angular](https://angular.io/), [Vue.js](https://vuejs.org/).
 
 **Never stop learning...**<br>
 **2022** : [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
