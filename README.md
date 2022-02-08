@@ -10,7 +10,7 @@
 **Novice** : Bash, Shell, C, C++, Julia, Angular, Vue.js.
 
 **Never stop learning...**<br>
-**2022** : [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), LaTeX, 
+**2022** : [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes).<br>
 **2021** : [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/), [Kaggle’s 30 Days of ML](https://www.kaggle.com/thirty-days-of-ml), [GLO-2100 Algorithmes et structures de données pour ingénieurs](https://www.ulaval.ca/etudes/cours/glo-2100-algorithmes-et-structures-de-donnees-pour-ingenieurs).<br>
 **2019** : [Fast.ai](https://course.fast.ai/), Intro to Deep Learning with PyTorch (Udacity).<br>
