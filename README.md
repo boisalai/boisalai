@@ -1,4 +1,5 @@
 # Putin is a 'murderous dictator.' 
+# Russia is a terrorist state 
 
 ### Hi, I'm Alain Boisvert
 
