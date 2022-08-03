@@ -12,7 +12,7 @@ https://github.com/nlp-with-transformers/notebooks
 Nowadays, the GPUs on Colab tend to be K80s (which have limited memory), so we recommend using Kaggle, Gradient, or SageMaker Studio Lab. These platforms tend to provide more performant GPUs like P100s, all for free!
 -->
 
-## Mes notes de cours avec Antora
+## Mes notes de cours avec Antora XYZ
 
 `Antora` `AsciiDoc` `LaTeX` `VS Code`
 
