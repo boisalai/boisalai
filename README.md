@@ -2,7 +2,7 @@
 
 [My resume](pdf/cv.pdf) (in French) <br>
 My [website](https://boisalai.github.io) <br>
-Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.fsg.ulaval.ca/etudes/programmes-detudes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives/), [Université Laval](https://www.ulaval.ca/).
+Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval.
 
 **:apple: Technical skills...**<br>
 **Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
