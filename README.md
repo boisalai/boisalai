@@ -8,12 +8,12 @@ Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traite
 **Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
 **Practical knowledge**:<br>
 &nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), SQL, q/kdb+.<br>
-**Development environments**: IntelliJ IDEA, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
-**Data Lake**: Delta Lake, Databricks, Snowflake.<br>
-**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
-**DevOps/MLOps**: Docker, Apache Airflow, Prefect.<br>
-**Web**: Javascript, Vue.js.<br>
-**Others**: Bash/Zsh, Git, Antora.<br>
+&nbsp;&nbsp;&nbsp;**Development environments**: IntelliJ IDEA, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
+&nbsp;&nbsp;&nbsp;**Data Lake**: Delta Lake, Databricks, Snowflake.<br>
+&nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
+&nbsp;&nbsp;&nbsp;**DevOps/MLOps**: Docker, Apache Airflow, Prefect.<br>
+&nbsp;&nbsp;&nbsp;**Web**: Javascript, Vue.js.<br>
+&nbsp;&nbsp;&nbsp;**Others**: Bash/Zsh, Git, Antora.<br>
 **Familiarity**: C/C++, Go, Julia, MongoDB, AWS, GCP, Terraform, Hibernate, Angular, Flask, TypeScript.
 
 **:books: I'm learning...**<br>
