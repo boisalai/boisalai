@@ -18,10 +18,13 @@
 
 **:books: I'm learning...**<br>
 **2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp), 
-[IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle)<br> 
+[IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle).<br> 
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
-[IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes).<br>
-**2021**: [Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD](https://course.fast.ai/), [Kaggle’s 30 Days of ML](https://www.kaggle.com/thirty-days-of-ml), [GLO-2100 Algorithmes et structures de données pour ingénieurs](https://www.ulaval.ca/etudes/cours/glo-2100-algorithmes-et-structures-de-donnees-pour-ingenieurs).<br>
+[IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
+[Docker](https://www.docker.com/), [kdb+/q](https://www.youtube.com/watch?v=8eoysfqO3UY), [Databricks](https://www.databricks.com/), 
+[Snowflake](https://www.snowflake.com/en/), [Scala](https://www.scala-lang.org/), [Apache Spark](https://spark.apache.org/).<br>
+**2021**: [Fast.ai](https://course.fast.ai/), [Kaggle’s 30 Days of ML](https://www.kaggle.com/thirty-days-of-ml), 
+[GLO-2100 Algorithmes et structures de données pour ingénieurs](https://www.ulaval.ca/etudes/cours/glo-2100-algorithmes-et-structures-de-donnees-pour-lingenierie).<br>
 **2019**: [Fast.ai](https://course.fast.ai/), Intro to Deep Learning with PyTorch (Udacity).<br>
 **2018**: Deep Learning Specialization (Coursera), [Deep Learnig Book](https://www.deeplearningbook.org/).<br>
 **2017**: Full Stack Web Developer Nanodegree (Udacity).
