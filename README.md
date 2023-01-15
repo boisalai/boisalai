@@ -1,6 +1,6 @@
 ### Hi, I'm Alain Boisvert
 
-[My resume](pdf/cv.pdf) in French. <br>
+[My resume](pdf/cv.pdf) in French.
 <!--
 My [website](https://boisalai.github.io) <br>
 -->
