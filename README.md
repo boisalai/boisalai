@@ -1,7 +1,9 @@
 ### Hi, I'm Alain Boisvert
 
-[My resume](pdf/cv.pdf) (in French) <br>
+[My resume](pdf/cv.pdf) in French. <br>
+<!--
 My [website](https://boisalai.github.io) <br>
+-->
 Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval.
 
 **:apple: Technical skills...**<br>
@@ -14,7 +16,7 @@ Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traite
 &nbsp;&nbsp;&nbsp;**DevOps/MLOps**: Docker, Apache Airflow, Prefect.<br>
 &nbsp;&nbsp;&nbsp;**Web**: Javascript, Vue.js.<br>
 &nbsp;&nbsp;&nbsp;**Others**: Bash/Zsh, Git, Antora.<br>
-**Familiarity**: C/C++, Go, Julia, MongoDB, AWS, GCP, Terraform, Hibernate, Angular, Flask, TypeScript.
+**Familiarity**: C/C++, Go, Julia, MongoDB, AWS, GCP, Hibernate, Angular, Flask, TypeScript.
 
 **:books: I'm learning...**<br>
 **2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp), 
