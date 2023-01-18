@@ -10,18 +10,18 @@ My [website](https://boisalai.github.io) <br>
 **:apple: Technical skills...**<br>
 **Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
 **Practical knowledge**:<br>
-&nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), SQL, q/kdb+.<br>
+&nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), SQL.<br>
 &nbsp;&nbsp;&nbsp;**Development environments**: IntelliJ IDEA, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
 &nbsp;&nbsp;&nbsp;**Data Lake**: Delta Lake, Databricks, Snowflake.<br>
 &nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
 &nbsp;&nbsp;&nbsp;**DevOps/MLOps**: Docker, Apache Airflow, Prefect.<br>
 &nbsp;&nbsp;&nbsp;**Web**: Javascript, Vue.js.<br>
 &nbsp;&nbsp;&nbsp;**Others**: Bash/Zsh, Git, Antora.<br>
-**Familiarity**: C/C++, Go, Julia, MongoDB, AWS, GCP, Hibernate, Angular, Flask, TypeScript.
+**Familiarity**: C/C++, Go, Julia, q/kdb+, MongoDB, AWS, GCP, Hibernate, Angular, Flask, TypeScript.
 
 **:books: I'm learning...**<br>
-**2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp), 
-[IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle).<br> 
+**2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) (in progress), 
+[IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle) (in progress).<br> 
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
 [Docker](https://www.docker.com/), [kdb+/q](https://www.youtube.com/watch?v=8eoysfqO3UY), [Databricks](https://www.databricks.com/), 
