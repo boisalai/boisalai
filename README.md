@@ -1,6 +1,9 @@
-### Hi, I'm Alain Boisvert
+### About me 
 
-[My resume](pdf/cv.pdf) in French. <br>
+- :mortar_board: [Resume](pdf/cv.pdf) in French.
+- :briefcase: [LinkedIn](https://www.linkedin.com/in/alain-boisvert-98b058156/)
+- :mailbox: The easiest way to reach me: ay.boisvert@gmail.com
+
 Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval.
 
 <!--
