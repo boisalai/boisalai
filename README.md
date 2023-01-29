@@ -23,7 +23,7 @@ My [website](https://boisalai.github.io) <br>
 **Familiarity**: C/C++, Go, Julia, [kdb+/q](https://code.kx.com/q/), MongoDB, AWS, GCP, Hibernate, [AngularJS](https://angular.io/), Flask, TypeScript.
 
 **:books: I'm learning...**<br>
-**2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) (in progress), 
+**2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023) (in progress), 
 [IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle) (in progress).<br> 
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
