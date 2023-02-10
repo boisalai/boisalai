@@ -9,10 +9,12 @@ Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traite
 <!--
 My [website](https://boisalai.github.io) <br>
 -->
+**:thinking: Soft skills...**<br>
+Curious, passionate, persevering, rigorous, team spirit, results oriented.
 
-**:apple: Technical skills...**<br>
+**:floppy_disk: Technical skills...**<br>
 **Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
-**Practical knowledge**:<br>
+**Knowledge**:<br>
 &nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), SQL.<br>
 &nbsp;&nbsp;&nbsp;**IDE**: IntelliJ IDEA, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
 &nbsp;&nbsp;&nbsp;**Data Lake**: Delta Lake, Databricks, Snowflake.<br>
