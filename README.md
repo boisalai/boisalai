@@ -4,8 +4,6 @@
 :briefcase: [LinkedIn](https://www.linkedin.com/in/alain-boisvert-98b058156/) <br>
 :mailbox: The easiest way to reach me: ay.boisvert@gmail.com
 
-Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval.
-
 <!--
 My [website](https://boisalai.github.io) <br>
 -->
@@ -25,6 +23,7 @@ Curious, passionate, persevering, rigorous, team spirit, results oriented.
 **Familiarity**: C/C++, Go, Julia, [kdb+/q](https://code.kx.com/q/), MongoDB, AWS, GCP, Hibernate, [AngularJS](https://angular.io/), Flask, TypeScript.
 
 **:books: I'm learning...**<br>
+Since 2021, I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval. <br>
 **2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023) (in progress), 
 [IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle) (in progress).<br> 
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
