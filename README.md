@@ -10,20 +10,18 @@ Curious, passionate, persevering, rigorous, team spirit, results oriented.
 
 **:floppy_disk: Technical skills...**<br>
 **Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
-**Knowledge**:<br>
-&nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), SQL.<br>
-&nbsp;&nbsp;&nbsp;**IDE**: IntelliJ IDEA, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
-&nbsp;&nbsp;&nbsp;**Data Lake**: Delta Lake, Databricks, Snowflake.<br>
+**Familiarity**:<br>
+&nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), [kdb+/q](https://code.kx.com/q/).<br>
+&nbsp;&nbsp;&nbsp;**IDE**: IntelliJ, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
+&nbsp;&nbsp;&nbsp;**Cloud**: Google Cloud.<br>
+&nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, MongoDB.<br>
 &nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
-&nbsp;&nbsp;&nbsp;**DevOps/MLOps**: Docker, Apache Airflow, Prefect.<br>
-&nbsp;&nbsp;&nbsp;**Web**: Javascript, Vue.js.<br>
-&nbsp;&nbsp;&nbsp;**Others**: Bash/Zsh, Git, Antora.<br>
-**Familiarity**: C/C++, Go, Julia, [kdb+/q](https://code.kx.com/q/), MongoDB, AWS, GCP, Hibernate, [AngularJS](https://angular.io/), Flask, TypeScript.
+&nbsp;&nbsp;&nbsp;**Others**: Git, Antora, Databricks, Snowflake, Docker, Apache Airflow, Prefect.<br>
 
 **:books: I'm learning...**<br>
 **Since 2021**: I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval. <br>
 **2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023) (in progress), 
-[IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle) (in progress).<br> 
+[IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle) (in progress).<br>
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
 [Docker](https://www.docker.com/), [kdb+/q](https://www.youtube.com/watch?v=8eoysfqO3UY), [Databricks](https://www.databricks.com/), 
