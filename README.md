@@ -11,16 +11,17 @@ Curious, passionate, persevering, rigorous, team spirit, results oriented.
 **:floppy_disk: Technical skills...**<br>
 **Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
 **Familiarity**:<br>
-&nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, Apache Spark, R, Python (NumPy, pandas, Matplotlib), [kdb+/q](https://code.kx.com/q/).<br>
-&nbsp;&nbsp;&nbsp;**IDE**: IntelliJ, PyCharm, Visual Studio Code, Google Colab, Jupyter.<br>
-&nbsp;&nbsp;&nbsp;**Cloud**: Google Cloud.<br>
+&nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, R, Python (NumPy, pandas, Matplotlib), [kdb+/q](https://code.kx.com/q/).<br>
+&nbsp;&nbsp;&nbsp;**IDE**: IntelliJ, PyCharm, VS Code, Jupyter.<br>
+&nbsp;&nbsp;&nbsp;**Cloud**: Google Cloud (GCP).<br>
 &nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, MongoDB.<br>
+&nbsp;&nbsp;&nbsp;**Data engineering**: Docker, Terraform, Airflow, Prefect, Spark.<br>
 &nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
-&nbsp;&nbsp;&nbsp;**Others**: Git, Antora, Databricks, Snowflake, Docker, Apache Airflow, Prefect.<br>
+&nbsp;&nbsp;&nbsp;**Others**: Git, Antora, Databricks, Snowflake.<br>
 
 **:books: I'm learning...**<br>
 **Since 2021**: I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval. <br>
-**2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023) (in progress), 
+**2023**: [DataTalks.Club Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023), 
 [IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle) (in progress).<br>
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
