@@ -20,8 +20,9 @@ Curious, passionate, persevering, rigorous, team spirit, results oriented.
 &nbsp;&nbsp;&nbsp;**Others**: Git, Antora, Databricks, Snowflake.<br>
 
 **:books: I'm learning...**<br>
-I'm back to university: [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives), Université Laval. <br>
-**2023**: DataTalksClub [MLOps Zoomcamp](https://github.com/boisalai/mlops-zoomcamp-2023) and 
+**2023**:
+[Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives) (in progress), Université Laval. <br>
+DataTalksClub [MLOps Zoomcamp](https://github.com/boisalai/mlops-zoomcamp-2023) (in progress) and 
 [Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023), 
 [IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle).<br>
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
