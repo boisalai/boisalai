@@ -23,7 +23,7 @@ Curious, passionate, persevering, rigorous, team spirit, results oriented.
 **2023**:
 [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives) (in progress), Université Laval. <br>
 DataTalksClub [MLOps Zoomcamp](https://github.com/boisalai/mlops-zoomcamp-2023) (in progress) and 
-[Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023), 
+[Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023), <br>
 [IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle).<br>
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
