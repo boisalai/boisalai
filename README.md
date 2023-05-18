@@ -13,13 +13,13 @@ Curious, passionate, persevering, rigorous, team spirit, results oriented.
 **Familiarity**:<br>
 &nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, R, Python (NumPy, pandas, Matplotlib), [kdb+/q](https://code.kx.com/q/).<br>
 &nbsp;&nbsp;&nbsp;**IDE**: IntelliJ, PyCharm, VS Code, Jupyter.<br>
-&nbsp;&nbsp;&nbsp;**Cloud**: Google Cloud (GCP).<br>
+&nbsp;&nbsp;&nbsp;**Cloud**: AWS, Google Cloud Platform (GCP).<br>
 &nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, MongoDB.<br>
 &nbsp;&nbsp;&nbsp;**Data engineering**: Docker, Terraform, Airflow, Prefect, Spark.<br>
 &nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
 &nbsp;&nbsp;&nbsp;**Others**: Git, Antora, Databricks, Snowflake.<br>
 
-**:books: I'm learning...**<br>
+**:books: What I'm learning...**<br>
 **2023**:
 [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives) (in progress), Université Laval. <br>
 DataTalksClub [MLOps Zoomcamp](https://github.com/boisalai/mlops-zoomcamp-2023) (in progress) and 
