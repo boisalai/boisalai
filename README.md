@@ -9,21 +9,22 @@
 Curious, passionate, persevering, rigorous, team spirit, results oriented.
 
 **:floppy_disk: Technical skills...**<br>
-**Workplace experience**: SAS, SQL, VBA/Excel, Fortran, Mainframe JCL/MVS/TSO/ISPF.<br>
+**Workplace experience**: SAS (15 years), VBA (15 years), SQL (5 years), Mainframe JCL/MVS/TSO/ISPF (9 years), Fortran (2 years).<br>
 **Familiarity**:<br>
 &nbsp;&nbsp;&nbsp;**Languages**: Java, Scala, R, Python (NumPy, pandas, Matplotlib), [kdb+/q](https://code.kx.com/q/).<br>
 &nbsp;&nbsp;&nbsp;**IDE**: IntelliJ, PyCharm, VS Code, Jupyter.<br>
 &nbsp;&nbsp;&nbsp;**Cloud**: AWS, Google Cloud Platform (GCP).<br>
 &nbsp;&nbsp;&nbsp;**Databases**: PostgreSQL, MongoDB.<br>
 &nbsp;&nbsp;&nbsp;**Data engineering**: Docker, Terraform, Airflow, Prefect, Spark.<br>
-&nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost.<br>
+&nbsp;&nbsp;&nbsp;**Machine learning**: scikit-learn, PyTorch, fast.ai, XGBoost, MLflow, Weights & Biases.<br>
 &nbsp;&nbsp;&nbsp;**Others**: Git, Antora, Databricks, Snowflake.<br>
 
 **:books: What I'm learning...**<br>
 **2023**:
-[Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives) (in progress), Université Laval. <br>
-DataTalksClub [MLOps Zoomcamp](https://github.com/boisalai/mlops-zoomcamp-2023) (in progress) and 
-[Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023), <br>
+Université Laval [Microprogramme de deuxième cycle en traitement de données massives](https://www.ulaval.ca/etudes/programmes/microprogramme-de-deuxieme-cycle-en-traitement-de-donnees-massives) (in progress).<br>
+Databricks [Large Language Models: Application through Production](https://www.edx.org/course/large-language-models-application-through-production) (in progress).<br>
+DataTalksClub [MLOps Zoomcamp](https://github.com/boisalai/mlops-zoomcamp-2023) (in progress).<br>
+[Data Engineering Zoomcamp](https://github.com/boisalai/de-zoomcamp-2023).<br>
 [IFT-7025 Techniques avancées en intelligence artificielle](https://www.ulaval.ca/etudes/cours/ift-7025-techniques-avancees-en-intelligence-artificielle).<br>
 **2022**: [Dive into Deep Learning](https://d2l.ai/), C++, [PyTorch](https://pytorch.org/), [Julia](https://julialang.org/), [LaTeX](https://www.latex-project.org/), 
 [IFT-3001 Conception et analyse d’algorithmes](https://www.ulaval.ca/etudes/cours/ift-3001-conception-et-analyse-dalgorithmes), 
