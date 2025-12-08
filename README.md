@@ -3,7 +3,7 @@
 Former Director General turned board member at the Chambre des notaires du Québec. Currently working as a consultant while pursuing studies in law and artificial intelligence.
 
 ## 🎓 Education
-- **Graduate Diploma (DESS) in Artificial Intelligence** — Université Laval (2023–2025)
+- **Diplôme d'études supérieures spécialisées (DESS) en intelligence artificielle** — Université Laval (2023–2025)
 - **MBA, Information Technology Management** — Université Laval (1999–2006)
   - Graduated with Distinction, Faculty of Graduate Studies and Faculty of Business Administration
 - **B.Sc., Applied Mathematics** — Université de Sherbrooke (1985–1988)
