@@ -1,6 +1,6 @@
 # Alain Boisvert
 
-Former Director General turned board member at the Chambre des notaires du Québec. Currently working as a consultant while pursuing studies in law and artificial intelligence.
+Former Director, Government of Quebec. Currently a board member at the Chambre des notaires du Québec, working as a consultant while pursuing studies in law and artificial intelligence.
 
 ## 🎓 Education
 - **Diplôme d'études supérieures spécialisées (DESS) en intelligence artificielle** — Université Laval (2023–2025)
