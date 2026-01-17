@@ -20,6 +20,7 @@ Former Director, Government of Quebec. Currently a board member at the Chambre d
   - Deep Learning Specialization (5 courses) — DeepLearning.AI / Coursera (2018)
   - W&B 101 — Weights & Biases (2023)
 - **Quantum Computing**
+  - Quantum programming: Grover's algorithm - Institut Quantique, Université de Sherbrooke (2025)
   - Quantum Machine Learning Algorithms with Qiskit — Institut Quantique, Université de Sherbrooke (2024)
   - Quantum Optimization with Qiskit — Institut Quantique, Université de Sherbrooke (2024)
 - **Data Engineering**
