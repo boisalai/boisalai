@@ -1,33 +1,24 @@
 # Alain Boisvert
 
-Former Director, Government of Quebec. Currently a board member at the Chambre des notaires du Québec, working as a consultant while pursuing studies in law and artificial intelligence.
+Étudiant au baccalauréat en droit à l'Université Laval, après plus de trente ans dans la fonction publique québécoise en finances publiques et en gouvernance, dont une douzaine d'années à des postes de direction. Administrateur de la Chambre des notaires du Québec, nommé par l'Office des professions.
 
-## 🎓 Education
-- **Bachelor of Laws** - Université Laval (2026-2028)
-- **Diplôme d'études supérieures spécialisées (DESS) en intelligence artificielle** — Université Laval (2023–2025)
-- **MBA, Information Technology Management** — Université Laval (1999–2006)
-  - Graduated with Distinction, Faculty of Graduate Studies and Faculty of Business Administration
-- **B.Sc., Applied Mathematics** — Université de Sherbrooke (1985–1988)
+Je développe des prototypes d'intelligence artificielle appliquée au droit québécois, où la confidentialité des données et la fiabilité des réponses sont les vraies difficultés.
 
-## 🎓 Certifications & Training
+## Projets
 
-- **Large Language Models & AI**
-  - Professional Certificate in Large Language Models — Databricks / edX (2023)
-  - LLM102x: Foundation Models from the Ground Up — Databricks / edX (2023)
-  - LLM101x: Application through Production — Databricks / edX (2023)
-  - Fundamentals of Agents — Hugging Face (2025)
-- **Deep Learning & Machine Learning**
-  - Deep Learning Specialization (5 courses) — DeepLearning.AI / Coursera (2018)
-  - W&B 101 — Weights & Biases (2023)
-- **Quantum Computing**
-  - Quantum programming: Grover's algorithm - Institut Quantique, Université de Sherbrooke (2025)
-  - Quantum Machine Learning Algorithms with Qiskit — Institut Quantique, Université de Sherbrooke (2024)
-  - Quantum Optimization with Qiskit — Institut Quantique, Université de Sherbrooke (2024)
-- **Data Engineering**
-  - Data Engineering Zoomcamp — DataTalks.Club (2023)
-  - Big Data Analysis with Spark — Calcul Québec (2022)
-- **Software Development & Tools**
-  - Full Stack Web Developer Nanodegree — Udacity (2017)
-  - Python Best Practices: CPU to GPU — Calcul Québec (2023)
-  - Introduction to Unix Command Line — Calcul Québec (2022)
+- **[Calculateur du revenu disponible](https://boisalai.github.io/revenu-disponible/)** : revenu disponible des ménages québécois en 2025, 2026 et 2027 (impôts, cotisations et transferts), programme par programme, chaque montant rattaché à sa source officielle. Site statique : le calcul se fait dans le navigateur. Remis à la Chaire de recherche en fiscalité et en finances publiques de l'Université de Sherbrooke. ([dépôt](https://github.com/boisalai/revenu-disponible))
+- **[Assistant de complétion de modèles du CAIJ](https://github.com/boisalai/caij-hackathon-2026)** : lit un modèle d'acte en Word (champs, variantes, sections facultatives, notes de rédaction) et aide à le compléter en gardant le modèle comme référence. Expérience inspirée du défi 2 du Hackathon CAIJ 2026, sans participation à l'événement ni affiliation au CAIJ.
+- **[Hackathon Lab](https://github.com/boisalai/hackathon-lab)** : bac à sable Next.js pour apprendre à bâtir des applications d'IA juridique. Orchestration d'un modèle local et de Claude, détection des renseignements personnels avant tout appel à un modèle, clinique juridique multi-agents appuyée sur un corpus du Code civil, de doctrine et de jurisprudence. Les pièges rencontrés sont consignés à chaque étape.
+- **[Legal Assistant](https://github.com/boisalai/legal-assistant)** : assistant d'études pour étudiants en droit. Documents classés par cours, recherche sémantique, transcription audio locale (Whisper MLX) et conversation avec un modèle de langue.
 
+## Formation
+
+- Baccalauréat en droit, Université Laval (obtention prévue en 2029)
+- Diplôme d'études supérieures spécialisées (DESS) en intelligence artificielle, Université Laval (2025)
+- MBA en gestion des technologies de l'information, Université Laval ; baccalauréat en mathématiques appliquées, Université de Sherbrooke
+- *AI, Justice, and the Rule of Law*, UNESCO et Saïd Business School, Université d'Oxford (2026)
+- *Artificial Intelligence and the Rule of Law*, UNESCO et The Future Society (2026) : [certificat](https://github.com/boisalai/boisalai/blob/main/Certificate%20of%20Completion%20-%20Alain%20Boisvert.pdf)
+
+## Me joindre
+
+[LinkedIn](https://www.linkedin.com/in/alain-boisvert/)
