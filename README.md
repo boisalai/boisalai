@@ -15,7 +15,8 @@ Je développe des prototypes d'intelligence artificielle appliquée au droit qu�
 
 - Baccalauréat en droit, Université Laval (obtention prévue en 2029)
 - Diplôme d'études supérieures spécialisées (DESS) en intelligence artificielle, Université Laval (2025)
-- MBA en gestion des technologies de l'information, Université Laval ; baccalauréat en mathématiques appliquées, Université de Sherbrooke
+- MBA en gestion des technologies de l'information, Université Laval (2006)
+- Baccalauréat en mathématiques appliquées, Université de Sherbrooke (1988)
 - *AI, Justice, and the Rule of Law*, UNESCO et Saïd Business School, Université d'Oxford (2026)
 - *Artificial Intelligence and the Rule of Law*, UNESCO et The Future Society (2026) : [certificat](https://github.com/boisalai/boisalai/blob/main/Certificate%20of%20Completion%20-%20Alain%20Boisvert.pdf)
 
