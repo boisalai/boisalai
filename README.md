@@ -13,6 +13,8 @@ Je développe des prototypes d'intelligence artificielle appliquée au droit qu�
 
 ## Outils
 
+Ce que j'utilise à l'automne 2026 :
+
 - **Développement** : Claude Code, Herdr, Zed, Git/GitHub, uv, Docker
 - **Langages et cadres** : Python, TypeScript, Next.js, PostgreSQL, Prisma
 - **IA et données juridiques** : API Claude, Ollama, MLX, OCRia-1, Whisper, API CanLII
