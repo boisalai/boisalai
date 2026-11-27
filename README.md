@@ -11,6 +11,13 @@ Je développe des prototypes d'intelligence artificielle appliquée au droit qu�
 - **[Hackathon Lab](https://github.com/boisalai/hackathon-lab)** : bac à sable Next.js pour apprendre à bâtir des applications d'IA juridique. Orchestration d'un modèle local et de Claude, détection des renseignements personnels avant tout appel à un modèle, clinique juridique multi-agents appuyée sur un corpus du Code civil, de doctrine et de jurisprudence. Les pièges rencontrés sont consignés à chaque étape.
 - **[Legal Assistant](https://github.com/boisalai/legal-assistant)** : assistant d'études pour étudiants en droit. Documents classés par cours, recherche sémantique, transcription audio locale (Whisper MLX) et conversation avec un modèle de langue.
 
+## Parcours
+
+- **Ministère de l'Éducation et de l'Enseignement supérieur** (2017–2021) : directeur de la gouvernance des projets d'infrastructures (plus de 25 projets majeurs, plus de 5 G$), puis directeur général des infrastructures (budget d'investissement de 6,5 G$ sur 10 ans).
+- **Ministère des Finances du Québec** (2001–2016) : analyste expert en politique budgétaire et fiscale, puis directeur des projets spéciaux et de la modélisation. J'y ai développé un modèle de simulation du revenu disponible des ménages de toutes les provinces canadiennes.
+- **Ministère de la Solidarité sociale** (1992–2001) : statistiques officielles sur les prestataires de l'aide sociale et entrepôt de données (SAS).
+- **Gouvernance** : administrateur de l'Ordre des dentistes du Québec (2016–2024), dont la présidence du comité d'audit ; prix Robert-Salois 2025.
+
 ## Formation
 
 - Baccalauréat en droit, Université Laval (obtention prévue en 2029)
