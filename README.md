@@ -1,5 +1,7 @@
 # Alain Boisvert
 
+**In English** — Law student at Université Laval (Québec, Canada), after a career in Québec public finance and governance. I build AI prototypes for Québec civil law, where data confidentiality and answer reliability are the real challenges. The projects below are documented in French; I'm happy to discuss them in English.
+
 Étudiant au baccalauréat en droit à l'Université Laval, après plus de trente ans dans la fonction publique québécoise en finances publiques et en gouvernance, dont une douzaine d'années à des postes de direction. Administrateur de la Chambre des notaires du Québec, nommé par l'Office des professions.
 
 Je développe des prototypes d'intelligence artificielle appliquée au droit québécois, où la confidentialité des données et la fiabilité des réponses sont les vraies difficultés.
