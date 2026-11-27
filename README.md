@@ -13,8 +13,9 @@ Je développe des prototypes d'intelligence artificielle appliquée au droit qu�
 
 ## Outils
 
-- **Développement** : Claude Code, Herdr, Zed, Python, TypeScript, Docker
-- **IA locale et données juridiques** : Ollama, OCRia-1, Whisper, API CanLII
+- **Développement** : Claude Code, Herdr, Zed, Git/GitHub, uv, Docker
+- **Langages et cadres** : Python, TypeScript, Next.js, PostgreSQL, Prisma
+- **IA et données juridiques** : API Claude, Ollama, MLX, OCRia-1, Whisper, API CanLII
 - **Poste de travail** : Obsidian, Tailscale, Syncthing
 
 ## Parcours
