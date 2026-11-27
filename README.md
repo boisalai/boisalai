@@ -11,6 +11,12 @@ Je développe des prototypes d'intelligence artificielle appliquée au droit qu�
 - **[Hackathon Lab](https://github.com/boisalai/hackathon-lab)** : bac à sable Next.js pour apprendre à bâtir des applications d'IA juridique. Orchestration d'un modèle local et de Claude, détection des renseignements personnels avant tout appel à un modèle, clinique juridique multi-agents appuyée sur un corpus du Code civil, de doctrine et de jurisprudence. Les pièges rencontrés sont consignés à chaque étape.
 - **[Legal Assistant](https://github.com/boisalai/legal-assistant)** : assistant d'études pour étudiants en droit. Documents classés par cours, recherche sémantique, transcription audio locale (Whisper MLX) et conversation avec un modèle de langue.
 
+## Outils
+
+- **Développement** : Claude Code, Herdr, Zed, Python, TypeScript, Docker
+- **IA locale et données juridiques** : Ollama, OCRia-1, Whisper, API CanLII
+- **Poste de travail** : Obsidian, Tailscale, Syncthing
+
 ## Parcours
 
 - **Ministère de l'Éducation et de l'Enseignement supérieur** (2017–2021) : directeur de la gouvernance des projets d'infrastructures (plus de 25 projets majeurs, plus de 5 G$), puis directeur général des infrastructures (budget d'investissement de 6,5 G$ sur 10 ans).
