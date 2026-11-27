@@ -7,6 +7,7 @@ Je développe des prototypes d'intelligence artificielle appliquée au droit qu�
 ## Projets
 
 - **[Calculateur du revenu disponible](https://boisalai.github.io/revenu-disponible/)** : revenu disponible des ménages québécois en 2025, 2026 et 2027 (impôts, cotisations et transferts), programme par programme, chaque montant rattaché à sa source officielle. Site statique : le calcul se fait dans le navigateur. Remis à la Chaire de recherche en fiscalité et en finances publiques de l'Université de Sherbrooke. ([dépôt](https://github.com/boisalai/revenu-disponible))
+- **[Modèle de simulation du revenu disponible (2001-2008)](https://github.com/boisalai/modele-revenu-disponible)** : le même calcul, vingt ans plus tôt, en VBA dans Excel au ministère des Finances du Québec, bien avant les assistants de programmation par IA. Québec, neuf autres provinces et treize États américains ; près de 77 000 lignes de code et cinq guides. Présentation et captures d'écran ; le code n'est pas publié.
 - **[Assistant de complétion de modèles du CAIJ](https://github.com/boisalai/caij-hackathon-2026)** : lit un modèle d'acte en Word (champs, variantes, sections facultatives, notes de rédaction) et aide à le compléter en gardant le modèle comme référence. Expérience inspirée du défi 2 du Hackathon CAIJ 2026, sans participation à l'événement ni affiliation au CAIJ.
 - **[Hackathon Lab](https://github.com/boisalai/hackathon-lab)** : bac à sable Next.js pour apprendre à bâtir des applications d'IA juridique. Orchestration d'un modèle local et de Claude, détection des renseignements personnels avant tout appel à un modèle, clinique juridique multi-agents appuyée sur un corpus du Code civil, de doctrine et de jurisprudence. Les pièges rencontrés sont consignés à chaque étape.
 - **[Legal Assistant](https://github.com/boisalai/legal-assistant)** : assistant d'études pour étudiants en droit. Documents classés par cours, recherche sémantique, transcription audio locale (Whisper MLX) et conversation avec un modèle de langue.
@@ -23,7 +24,7 @@ Ce que j'utilise à l'automne 2026 :
 ## Parcours
 
 - **Ministère de l'Éducation et de l'Enseignement supérieur** (2017–2021) : directeur de la gouvernance des projets d'infrastructures (plus de 25 projets majeurs, plus de 5 G$), puis directeur général des infrastructures (budget d'investissement de 6,5 G$ sur 10 ans).
-- **Ministère des Finances du Québec** (2001–2016) : analyste expert en politique budgétaire et fiscale, puis directeur des projets spéciaux et de la modélisation. J'y ai développé un modèle de simulation du revenu disponible des ménages de toutes les provinces canadiennes.
+- **Ministère des Finances du Québec** (2001–2016) : analyste expert en politique budgétaire et fiscale, puis directeur des projets spéciaux et de la modélisation.
 - **Ministère de la Solidarité sociale** (1992–2001) : statistiques officielles sur les prestataires de l'aide sociale et entrepôt de données (SAS).
 - **Gouvernance** : administrateur de l'Ordre des dentistes du Québec (2016–2024), dont la présidence du comité d'audit ; prix Robert-Salois 2025.
 
